@@ -16,3 +16,7 @@ use the following commands to setup and start app.
 - npm start
 
 Application will start at localhost:3000/v1/api/
+
+# POSTMAN COLLECTION URL:
+
+https://www.getpostman.com/collections/32e1641df853d473ae7e
